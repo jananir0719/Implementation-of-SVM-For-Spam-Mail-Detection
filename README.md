@@ -90,7 +90,7 @@ print(f"Prediction: {'Spam' if prediction[0]==1 else 'Ham'}")
 ```
 
 ## Output:
-<img width="773" height="401" alt="image" src="https://github.com/user-attachments/assets/29910f20-305c-4721-8026-5bf728bf94d1" />
+<img width="882" height="427" alt="image" src="https://github.com/user-attachments/assets/432f3e3b-62e5-4000-bccc-a521f0940565" />
 
 
 
